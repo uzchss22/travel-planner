@@ -115,7 +115,7 @@ def main():
         page_title="DeepSeek R1 Travel Assistant", page_icon="✈️", layout="wide"
     )
 
-    st.title("✈️ DeepSeek Travel Assistant\nHyeok CHOI")
+    st.title("✈️ DeepSeek Travel Assistant\n2025810092 Hyeok CHOI")
     st.markdown(
         """
 Powered by DeepSeek API (chat model).
